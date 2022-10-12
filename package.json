@@ -1,0 +1,20 @@
+{
+    "name": "removearraypart",
+    "version": "1.0.0",
+    "description": "Remove a part of a given array between given 0-based indexes `l` and `r` (inclusive).",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/removeArrayPart.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/removeArrayPart/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/removeArrayPart#readme"
+}
